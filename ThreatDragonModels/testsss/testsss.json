@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "testsss",
+    "owner": "safasdf"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "ffff"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "sfsf"
+  }
+}
